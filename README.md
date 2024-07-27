@@ -1,4 +1,4 @@
-# Python-100 Days_of_Code
+# Python-100 Days of Code
 
 ![title](100-Days-Of-Code.PNG)
 
